@@ -2,7 +2,12 @@
 **🔗Project Link:** [Car-Prize-Prediction-with-ML](https://github.com/Sanskriti1102/Car-Prize-Prediction-with-ML/blob/main/Car%20Prize%20Prediction%20with%20ML.ipynb)
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![Library](https://img.shields.io/badge/Library-seaborn%2C%20scikit--learn-green)
+![Pandas](https://img.shields.io/badge/Pandas-1.3.3-blue)
+![NumPy](https://img.shields.io/badge/NumPy-1.21.2-blue)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4.3-blue)
+![Seaborn](https://img.shields.io/badge/Seaborn-0.11.2-blue)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0.24.2-blue)
+![Pickle](https://img.shields.io/badge/Pickle-Standard%20Library-blue)
 
 ## Problem Statement
 
@@ -16,20 +21,24 @@ In this project, I tackled the following key tasks:
 
 2. **Data Cleaning and Preprocessing**: To ensure reliable analysis, I meticulously cleaned and preprocessed the data. This involved handling missing values, converting data types, and removing outliers.
 
-3. **Data Visualization**: I used the seaborn library to create visually appealing plots that provided insights into car prices. I explored price distributions by car company, year, and fuel type. The use of various color palettes made the visualizations more engaging.
+3. **Data Visualization**: I used the seaborn library 📊 to create visually appealing plots that provided insights into car prices. I explored price distributions by car company, year, and fuel type. The use of various color palettes made the visualizations more engaging.
 
 4. **Insightful Analysis**: To better understand the data, I delved into the relationship between car prices and kilometers driven. This analysis provided valuable insights into how mileage impacts car pricing.
 
-5. **Machine Learning Model**: One of the highlights of this project was building a robust Linear Regression model using scikit-learn. I trained the model on the preprocessed data to predict car prices accurately.
+5. **Machine Learning Model**: One of the highlights of this project was building a robust Linear Regression model 🤖 using scikit-learn. I trained the model on the preprocessed data to predict car prices accurately.
 
-6. **Model Persistence**: To ensure the model's reusability, I saved it using Python's `pickle` module. I also demonstrated how to load the trained model for future predictions.
+6. **Model Persistence**: To ensure the model's reusability, I saved it using Python's `pickle` module 🥒. I also demonstrated how to load the trained model for future predictions.
 
 ## How It's Done
 
 ### Libraries Used
 - Python 3.8+
-- seaborn for data visualization
-- scikit-learn for machine learning
+- Pandas 1.3.3
+- NumPy 1.21.2
+- Matplotlib 3.4.3
+- Seaborn 0.11.2
+- scikit-learn 0.24.2
+- Pickle (Standard Library)
 
 ### Data Source
 The dataset used in this project was obtained from [quikr_car dataset link](https://github.com/Sanskriti1102/Car-Prize-Prediction-with-ML/blob/main/quikr_car.csv), containing information about various car models, their specifications, and prices.
@@ -42,4 +51,3 @@ The dataset used in this project was obtained from [quikr_car dataset link](http
 ### Happy coding! 😊🚗
 
 # Task given by InternPe.
-
