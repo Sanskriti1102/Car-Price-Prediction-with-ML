@@ -1,4 +1,5 @@
 # Car-Prize-Prediction-with-ML
+**🔗Project Link:** [Car-Prize-Prediction-with-ML](https://github.com/Sanskriti1102/Car-Prize-Prediction-with-ML/blob/main/Car%20Prize%20Prediction%20with%20ML.ipynb)
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Library](https://img.shields.io/badge/Library-seaborn%2C%20scikit--learn-green)
@@ -31,7 +32,7 @@ In this project, I tackled the following key tasks:
 - scikit-learn for machine learning
 
 ### Data Source
-The dataset used in this project was obtained from , containing information about various car models, their specifications, and prices.
+The dataset used in this project was obtained from https://github.com/Sanskriti1102/Car-Prize-Prediction-with-ML/blob/main/quikr_car.csv, containing information about various car models, their specifications, and prices.
 
 ### Running the Project
 1. Clone this repository to your local machine.
