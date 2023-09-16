@@ -1,5 +1,5 @@
-# Car-Price-Prediction-with-ML
-**🔗Project Link:** [Car-Price-Prediction-with-ML](https://github.com/Sanskriti1102/Car-Prize-Prediction-with-ML/blob/main/Car%20Prize%20Prediction%20with%20ML.ipynb)
+# Car-Price-Predictor-with-ML
+**🔗Project Link:** [Car-Price-Predictor-with-ML](https://github.com/Sanskriti1102/Car-Prize-Prediction-with-ML/blob/main/Car%20Prize%20Prediction%20with%20ML.ipynb)
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-1.3.3-blue)
