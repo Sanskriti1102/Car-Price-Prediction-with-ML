@@ -32,14 +32,14 @@ In this project, I tackled the following key tasks:
 - scikit-learn for machine learning
 
 ### Data Source
-The dataset used in this project was obtained from https://github.com/Sanskriti1102/Car-Prize-Prediction-with-ML/blob/main/quikr_car.csv, containing information about various car models, their specifications, and prices.
+The dataset used in this project was obtained from [quikr_car dataset link](https://github.com/Sanskriti1102/Car-Prize-Prediction-with-ML/blob/main/quikr_car.csv), containing information about various car models, their specifications, and prices.
 
 ### Running the Project
 1. Clone this repository to your local machine.
 2. Install the required libraries using `pip install -r requirements.txt`.
 3. Run the Jupyter Notebook or Python script to execute the analysis and model building.
 
-Happy coding! 😊🚗
---
-Task given by InternPe.
---
+### Happy coding! 😊🚗
+
+# Task given by InternPe.
+
